@@ -1,38 +1,71 @@
-.App {
-  text-align: center;
+body{
+  background-color: rgb(243, 243, 244);
+}
+.imageh{
+  height:100px;
+  background-size: cover;
+  /* background-color: #74c1fc93; */
+}
+.imageh:hover{
+  height:110px;
+}
+.imagew1{
+  height:200px;
+  background-size: cover;
+}
+.imagew1:hover{
+  height:220px;
+}
+.imagehh{
+  
+    height:110px;
+    background-size: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.imagehh:hover{
+    height:120px
+  
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.addtocart{
+  color: #63e6be;
+  background: aliceblue;
+  font-weight: 700;
+  border: 3px solid cadetblue;
+  height:40px; 
+}
+.addtocart:hover{
+  color: #63e6be;
+  background: aliceblue;
+  font-weight: 700;
+  border: 3px solid cadetblue;
+  height:44px;
+}
+.addto{color: hotpink;
+   background:rgb(251, 230, 255);
+    font-weight:700;
+    border:3px solid pink;
+    height:40px;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .addto:hover{
+    color: hotpink;
+   background:rgb(251, 230, 255);
+    font-weight:700;
+    border:3px solid pink;
+    height:44px;
   }
-  to {
-    transform: rotate(360deg);
+  .placeorder{
+    color: #63e6be;
+    background: aliceblue;
+    font-weight: 700;
+    font-size: 20px;
+    border: 3px solid cadetblue;
+    height:45px; 
   }
-}
+  .placeorder:hover{
+      color: #63e6be;
+      background: aliceblue;
+      font-weight: 700;
+      font-size: 20px;
+      border: 3px solid cadetblue;
+      height:49px; 
+  }
