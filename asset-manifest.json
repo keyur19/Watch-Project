@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Watch-Project/static/css/main.ce79d18f.css",
+    "main.js": "/Watch-Project/static/js/main.445ca917.js",
+    "static/js/453.c8059041.chunk.js": "/Watch-Project/static/js/453.c8059041.chunk.js",
+    "static/media/man.jpeg": "/Watch-Project/static/media/man.f068c6d1a1f837da4ce3.jpeg",
+    "static/media/wooden1.jpeg": "/Watch-Project/static/media/wooden1.20878b14237366029c80.jpeg",
+    "static/media/sport2.jpeg": "/Watch-Project/static/media/sport2.c225229852d4be1c0c8e.jpeg",
+    "static/media/logo.jfif": "/Watch-Project/static/media/logo.102118acfcdfc5b3bb25.jfif",
+    "static/media/wooden2.jpeg": "/Watch-Project/static/media/wooden2.2a8f799769caa45341be.jpeg",
+    "static/media/w11.jpg": "/Watch-Project/static/media/w11.b92d5b335f90ffa4c97b.jpg",
+    "static/media/imagelogo6.jfif": "/Watch-Project/static/media/imagelogo6.3a198c1e87a76e4dae5f.jfif",
+    "static/media/imagelogo1.jfif": "/Watch-Project/static/media/imagelogo1.9ba19b99682b19cc889d.jfif",
+    "index.html": "/Watch-Project/index.html",
+    "main.ce79d18f.css.map": "/Watch-Project/static/css/main.ce79d18f.css.map",
+    "main.445ca917.js.map": "/Watch-Project/static/js/main.445ca917.js.map",
+    "453.c8059041.chunk.js.map": "/Watch-Project/static/js/453.c8059041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce79d18f.css",
+    "static/js/main.445ca917.js"
+  ]
+}
